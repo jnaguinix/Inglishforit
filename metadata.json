@@ -1,0 +1,8 @@
+{
+  "name": "CertIT B2: English for IT Exam Trainer",
+  "description": "Entrenador mobile-first para el examen English for IT B2 / GSE 59-75 (OpenEDG EIT-B2-01). Enfoque exacto en los objetivos evaluados, explicaciones en español y contextos de soporte de redes y ciberseguridad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
